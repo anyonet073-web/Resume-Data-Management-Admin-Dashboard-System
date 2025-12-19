@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Resume System",
+  "description": "A futuristic resume management system featuring glassmorphism UI, real-time analytics, and Gemini AI-powered candidate insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
